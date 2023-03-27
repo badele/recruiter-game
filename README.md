@@ -1,2 +1,3 @@
 # recruiter-game
-Recruiter game
+
+<img src="recruiter_game.png" />
